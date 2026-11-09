@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: CC-BY-SA-4.0 -->
 # Awesome Z3
 
 Learn to express a constraint, ask for a model and examine what changes when you strengthen the constraint.
